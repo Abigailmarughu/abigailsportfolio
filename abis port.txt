@@ -1,0 +1,15 @@
+Abigail's Portfolio
+Home About Portfolio Contact
+Welcome
+This is Abigail's personal portfolio. Explore my work and projects.
+
+About Me
+Placeholder text for your background, skills, and education.
+
+Portfolio
+Placeholder for showcasing school projects. This will be editable.
+
+Contact
+Placeholder for contact form or details.
+
+© 2025 Abigail's Portfolio
